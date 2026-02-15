@@ -1,2 +1,2 @@
 # Python-Learning-Journey
-My streps towards Python
+My steps towards Python
