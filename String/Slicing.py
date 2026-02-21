@@ -1,4 +1,4 @@
-username = "Spot"
+username = "Spotify"
 print(username[0:3])
 print(username[0:])
 print(username[:3])
@@ -38,4 +38,6 @@ print(text6.split(","))
 # 3.After separator
 text7 = "apple-banana-mango"
 print(text7.partition("-"))#It only splits at the first occurrence.
-
+#s[start:stop:step]
+s = "abcdefghijk"
+print(s[1::3])
