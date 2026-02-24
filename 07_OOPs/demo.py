@@ -1,6 +1,6 @@
 class Computer:
     #__init__, it's used to initialise , not the constructor
-    # cpu,ram,ssd=> These are called instance variable
+    # cpu,ram,ssd => These are called instance variable
     brand = "Telusko"#Class variable
     def __init__(self,cpu,ram,ssd):
         print("Initialised")
